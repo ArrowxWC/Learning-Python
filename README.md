@@ -1,2 +1,2 @@
 # Learning-Python
-Started to learned Python
+Started to learn Python
